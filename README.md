@@ -22,6 +22,10 @@ API que extrai, transforma e armazena feeds RSS em JSON no S3. Deploy com Docker
 Aplicação front-end simples com cadastro, listagem e remoção de usuários no `LocalStorage`. Explora manipulação de DOM, uso de padrão Factory e armazenamento no navegador.  
 🔗 [Repositório](https://github.com/Compass-pb-aws-2025-JANEIRO/sprint-1-pb-aws-janeiro/tree/dawson-monteiro)
 
+### 5. 📊 Question Answering sobre Dados Tabulares
+Sistema de perguntas e respostas sobre datasets `.parquet` com técnicas clássicas de NLP (TF-IDF, heurísticas, análise de colunas com pandas). Gera previsões automáticas a partir de perguntas livres em linguagem natural e realiza matching com templates semânticos.  
+🔗 [Repositório](https://github.com/dwsoliv73/question-answering-tabular)
+
 ---
 
 ## 📜 Certificações
@@ -35,8 +39,8 @@ Aplicação front-end simples com cadastro, listagem e remoção de usuários no
 
 - **Linguagens**: Python, JavaScript, Java, HTML/CSS  
 - **Cloud & DevOps**: AWS (S3, EC2, CloudWatch), Docker, Git  
-- **IA & NLP**: LangChain, Amazon Bedrock, SpaCy, NLTK  
-- **Outros**: REST APIs, embeddings vetoriais, Textract, RAG pipelines
+- **IA & NLP**: LangChain, Amazon Bedrock, SpaCy, NLTK, TF-IDF  
+- **Outros**: REST APIs, Textract, RAG pipelines, Pandas, ChromaDB
 
 ---
 
@@ -44,5 +48,4 @@ Aplicação front-end simples com cadastro, listagem e remoção de usuários no
 
 - 📧 dawsonm@id.uff.br  
 - 📱 +55 (21) 99525-2211  
-- 🌐 [LinkedIn](https://www.linkedin.com/dawson-monteiro/) *(adicione seu link)*  
-
+- 🌐 [LinkedIn](https://www.linkedin.com/dawson-monteiro/)
