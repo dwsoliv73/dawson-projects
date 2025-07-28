@@ -44,5 +44,5 @@ Aplicação front-end simples com cadastro, listagem e remoção de usuários no
 
 - 📧 dawsonm@id.uff.br  
 - 📱 +55 (21) 99525-2211  
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(adicione seu link)*  
-- 🌍 [Meu site pessoal](https://www.seusite.com) *(opcional)*
+- 🌐 [LinkedIn](https://www.linkedin.com/dawson-monteiro/) *(adicione seu link)*  
+
