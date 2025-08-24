@@ -35,6 +35,11 @@ Sistema de perguntas e respostas sobre datasets `.parquet` com técnicas clássi
 
 ---
 
+- ✅ **Data Science for Business**  
+🔗 https://www.credly.com/badges/2b9942b1-bae8-47d5-b1fd-baed2bf84fa4/public_url
+
+---
+
 ## 🛠️ Tecnologias
 
 - **Linguagens**: Python, JavaScript, Java, HTML/CSS  
