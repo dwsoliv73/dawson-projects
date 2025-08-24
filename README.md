@@ -1,6 +1,6 @@
 # Portfólio - Dawson Monteiro ☁️👨‍💻
 
-Estudante de Ciência da Computação (UFF), com certificação AWS Cloud Practitioner e experiência prática em desenvolvimento de APIs, NLP, Docker e computação em nuvem. Apaixonado por Inteligência Artificial, segurança da informação e soluções escaláveis.
+Estudante de Ciência da Computação (UFF), com certificação AWS Cloud Practitioner e IBM Data Science for Bussiness. Tenho experiência prática em desenvolvimento de APIs, NLP, Docker e computação em nuvem. Apaixonado por Inteligência Artificial, segurança da informação e soluções escaláveis.
 
 ---
 
